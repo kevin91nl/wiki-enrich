@@ -18,6 +18,7 @@ However, this is not an easy task. Several assumptions and simplifications are u
 ## Assumptions and Simplifications
 
 - Only pages referring to a single entity are used.
+- Only pages in English are used.
 - Only DBpedia information is used which is about the entity the page is about.
 - Each word in a page can refer to multiple labels.
 
